@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Bulat 👋</h1>
 
-<!--
-**bulat-tsydendorzhiev/bulat-tsydendorzhiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">:mortar_board: Student of the Irkutsk State University</h1>
 
-Here are some ideas to get you started:
+<h3>GitHub Stats</h3>
+<table>
+  <tr>
+    <th>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YuriUfimtsev&layout=compact"/>
+      </a>
+    </th>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technology stack
+### OS & Version Control
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux)](https://skillicons.dev)
+
+### Backend (Core & Frameworks)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,py,go)](https://skillicons.dev)
+
+![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Frontend & State
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind)](https://skillicons.dev)
+
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=postgresql,sqlite)](https://skillicons.dev)
+
+### DevOps & Instruments
+[![My Skills](https://skillicons.dev/icons?i=docker,githubactions)](https://skillicons.dev)
